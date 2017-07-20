@@ -17,4 +17,3 @@ linters:
     max_depth: 5
   NestingDepth:
     max_depth: 5
-
