@@ -12,4 +12,5 @@ Rails.application.routes.draw do
       resource :confirmations, only: [:show]
     end
   end
+  resources :tracks
 end
